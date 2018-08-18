@@ -1,6 +1,6 @@
 #ifndef OFFICESTUFF_H
 #define OFFICESTUFF_H
 
-void printS(void);
+void printStuff(void);
 
 #endif // OFFICESTUFF_H
